@@ -3,7 +3,7 @@
 A responsive implementation of Frontend Mentor's Digitalbank landing-page challenge, featuring a hero, service benefits, article cards, and adaptive navigation.
 
 - **Live demo:** https://digital-banking-snowy.vercel.app
-- **Source:** https://github.com/GlitchingghosT/Digital-Banking
+- **Source:** https://github.com/GlitchingghosT/digitalbank-landing-page
 
 ## Features
 
